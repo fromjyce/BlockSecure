@@ -1,4 +1,4 @@
-"use client"; // Ensures this file is treated as a client component
+"use client";
 
 import "/src/app/static-pages/main/styles/Faq.css";
 import React, { useState } from "react";
@@ -56,4 +56,4 @@ const Faq = () => {
   );
 };
 
-export default Faq;
+export default Faq
