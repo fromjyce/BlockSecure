@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+* {
+	padding: 0;
+	margin: 0;
+    box-sizing: border-box;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #1B1212;
+}
+
+.embedvideo-whole-container {
+    background-color: #1B1212;
+    margin-top: 40px;
+}
+
+.embed-video-title{
+font-family: "Chakra Petch", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 2.3rem;
+  color: #FAF9F6;
+}
